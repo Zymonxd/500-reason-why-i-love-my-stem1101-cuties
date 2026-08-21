@@ -6,6 +6,7 @@ const reasons = [
   
   "Because you guys make ordinary days memorable.",
    "Because our officers are cute, lalo na si vp",
+   
   "Because our section is never boring.",
   "Because there is always someone making everyone laugh.",
   "Because we can be ourselves around each other.",
